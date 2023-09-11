@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+::-webkit-scrollbar{
+  display:  none;
+}
+
+.btn:hover{
+  background-color: rgb(106, 118, 248) !important;
+  color: aliceblue !important;
+}
+
+.icon:hover{
+  color: aliceblue !important;
+}
